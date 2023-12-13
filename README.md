@@ -3,3 +3,6 @@ Mengembangkan model machine learning dengan menggunakan Convolutional Neural Net
 
 ### Link Dataset
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+### Link Word Embedding Glove 100D
+https://drive.google.com/file/d/1cASjYv_n9rIrBuhqclHfnnfCQ1ojKKXV/view?usp=sharing
