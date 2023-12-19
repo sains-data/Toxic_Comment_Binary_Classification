@@ -22,8 +22,8 @@ Each component of the project plays a critical role in the overall functionality
 - **Streamlit App**: This is the web application interface where users can interact with the model for making predictions.
 - **Model**: The trained multichannel CNN model file which is used for prediction.
 - **Tokenizer Pickle**: This contains the tokenization mapping used by the model to convert text data into a format that can be processed.
+- **Youtube Comment** : This dataset is taken from YouTube comments. It is used with the purpose of testing the effectiveness level in the application of the machine learning model that has been built
 
-(Include additional instructions on how to use the Streamlit app, how to load the model, and how to apply the tokenizer for new data.)
 
 ## Useful Links Table
 
@@ -34,7 +34,7 @@ Each component of the project plays a critical role in the overall functionality
 | Streamlit App      | [Streamlit Interface](https://drive.google.com/file/d/1pApTXQLimki7jOTQkRb2Ht4tyVtglZWF/view?usp=sharing) |
 | Model              | [CNN Model](https://drive.google.com/file/d/1iTxhqpA8rHhCelQxu9DAN20NzNwd49nj/view?usp=sharing) |
 | Tokenizer Pickle   | [Tokenizer](https://drive.google.com/file/d/18DN21jgVVaEdov5liEG_ez49s8PoxyaN/view?usp=sharing) |
-| Streamlit Deploy   | (Insert the Streamlit deployment link here)                                                |
+| Streamlit Deploy   | [Streamlit Deploy App](https://robbyrmadhan-project-ubnrbpchcplxzc2qyebxyo.streamlit.app/)                                                |
 | YoutubeComment     | You Can Dowload in File Above                                                              |
 
 ## Contributors
