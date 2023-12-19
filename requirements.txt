@@ -1,0 +1,8 @@
+streamlit==1.29.0
+tensorflow==2.13.0
+pandas==2.0.3
+numpy==1.24.3
+matplotlib
+gdown
+wordcloud
+openpyxl
