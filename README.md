@@ -36,3 +36,17 @@ Each component of the project plays a critical role in the overall functionality
 | Tokenizer Pickle   | [Tokenizer](https://drive.google.com/file/d/18DN21jgVVaEdov5liEG_ez49s8PoxyaN/view?usp=sharing) |
 | Streamlit Deploy   | [Streamlit Deploy App](https://robbyrmadhan-project-ubnrbpchcplxzc2qyebxyo.streamlit.app/)                                                |
 | YoutubeComment     | You Can Dowload in File Above                                                              |
+
+
+
+
+## Contributors
+
+1. Robby Hidayah Ramadhan - 120450033
+2. Muhammad Aqsal Fadillah - 120450077
+3. Nadhira Adela Putri - 12045001
+4. Wulan Ayu Windari - 120450045
+
+## License
+Deep Learning Project [RA] - 2023
+
